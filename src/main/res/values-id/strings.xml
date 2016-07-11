@@ -4,39 +4,39 @@
     <string name="app_name">GSam Battery Monitor</string>
 
     <!-- Notification & Header messages -->
-    <string name="battery_status_time_left">Time Left: %1$02d:%2$02d (Average), %3$02d:%4$02d (Last %5$sm)</string>
-    <string name="battery_status_time_left_no_running">Time Left: %1$02d:%2$02d</string>
-    <string name="battery_status_time_left_unknown">Time Left: Calculating - check back later</string>
-    <string name="battery_status_time_to_full">Time To Full: %1$02d:%2$02d</string>
-    <string name="battery_status_time_to_full_unknown">Time To Full: Calculating - check back later</string>
-    <string name="battery_status_title">Battery Status - %1$s%% (%2$s)</string>
-    <string name="battery_status_title_charging">Battery Status - %1$s%% (%2$s) - Charging</string>
-    <string name="battery_status_title_full">Battery Status - %1$s%% (%2$s) - Full</string>
+    <string name="battery_status_time_left">Sisa Waktu: %1$02d:%2$02d (Perkiraan), %3$02d:%4$02d (Berakhir %5$sm)</string>
+    <string name="battery_status_time_left_no_running">Sisa Waktu: %1$02d:%2$02d</string>
+    <string name="battery_status_time_left_unknown">Sisa Waktu: Menghitung - periksa kembali nanti</string>
+    <string name="battery_status_time_to_full">Waktu Pengisian: %1$02d:%2$02d</string>
+    <string name="battery_status_time_to_full_unknown">Waktu Pengisian: Menghitung - periksa kembali nanti</string>
+    <string name="battery_status_title">Status Batere - %1$s%% (%2$s)</string>
+    <string name="battery_status_title_charging">Status Batere - %1$s%% (%2$s) - Mengisi</string>
+    <string name="battery_status_title_full">Status Batere - %1$s%% (%2$s) - Penuh</string>
 
     <!-- Preferences -->
-    <string name="preferences_general_category">General Preferences</string>
-    <string name="preferences_theme_category">Theme</string>
-    <string name="preferences_alarm_category">Alarms</string>
-    <string name="preferences_startup_service_title">Monitor On Device Startup</string>
-    <string name="preferences_startup_service_sum">Start battery monitoring on boot</string>
-    <string name="preferences_temperature_title">Temperature in Celsius</string>
-    <string name="preferences_show_notification_icon_title">Show Notification Icon</string>
-    <string name="preferences_show_notification_icon_sum" tools:ignore="StringFormatInvalid">Show % notification icon in notification bar</string>
-    <string name="preferences_show_notification_title">Show Notification Only</string>
-    <string name="preferences_show_notification_sum">See the notification without the notification icon</string>
+    <string name="preferences_general_category">Pilihan</string>
+    <string name="preferences_theme_category">Tema</string>
+    <string name="preferences_alarm_category">Alarm</string>
+    <string name="preferences_startup_service_title">Monitor saat perangkat dihidupkan</string>
+    <string name="preferences_startup_service_sum">Mulai pengecekan batere saat dihidupkan</string>
+    <string name="preferences_temperature_title">Temperatur dalam Celsius</string>
+    <string name="preferences_show_notification_icon_title">Tampilkan Ikon pada Notifikasi</string>
+    <string name="preferences_show_notification_icon_sum" tools:ignore="StringFormatInvalid">Tampilkan % (persentase) pada notifikasi</string>
+    <string name="preferences_show_notification_title">Tampilkan Hanya Notifikasi</string>
+    <string name="preferences_show_notification_sum">Lihat notifikasi tanpa ikon</string>
     <!-- preferences_show_notification_lockscreen_title is not used yet... -->
-    <string name="preferences_show_notification_lockscreen_title">Show Notification on Lockscreen</string>
-    <string name="preferences_alarm_condition_charging">Battery above</string>
-    <string name="preferences_alarm_condition_discharging">Battery below</string>
-    <string name="preferences_alarm_condition_overheated">Battery overheated</string>
-    <string name="preferences_alarm_condition_overvoltage">Battery over voltage</string>
-    <string name="preferences_alarm_condition_temperature">Temperature above</string>
-    <string name="preferences_alarm_select_percent">Battery Percent</string>
-    <string name="preferences_alarm_select_temperature">Battery Temperature</string>
-    <string name="preferences_alarm_select_tone">Select Notification Tone</string>
-    <string name="preferences_theme_title">Battery Icon Theme</string>
-    <string name="preferences_theme_sum">Choose the battery icon style</string>
-    <string name="preferences_theme_getmore_title">Get More Themes</string>
+    <string name="preferences_show_notification_lockscreen_title">Tampilkan Notifikasi saat Kunci Layar</string>
+    <string name="preferences_alarm_condition_charging">Batere diatas</string>
+    <string name="preferences_alarm_condition_discharging">Batere dibawah</string>
+    <string name="preferences_alarm_condition_overheated">Batere sangat panas</string>
+    <string name="preferences_alarm_condition_overvoltage">Batere kelebihan daya</string>
+    <string name="preferences_alarm_condition_temperature">Temperatur diatas</string>
+    <string name="preferences_alarm_select_percent">Persentase Batere</string>
+    <string name="preferences_alarm_select_temperature">Temperatur Batere</string>
+    <string name="preferences_alarm_select_tone">Pilih Suara Notifikasi</string>
+    <string name="preferences_theme_title">Tema Ikon Batere</string>
+    <string name="preferences_theme_sum">Pilih tema</string>
+    <string name="preferences_theme_getmore_title">Unduh Tema</string>
     <string name="preferences_theme_getmore_msg">This will search for more Battery Monitor themes.  GSam Labs does not control or approve all themes, so if the theme does\'t work, contact the the developer of the theme.\n\nDownload and install the theme, then come back to this menu to see the available themes.\n\nDid you know you can create your own themes?  See http://badassbatterymonitor.blogspot.com for details on how!</string>
     <string name="preferences_theme_progress_title">Retrieving Themes</string>
     <string name="preferences_theme_progress_msg">Retrieving list of available themes\u2026</string>
